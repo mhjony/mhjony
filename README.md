@@ -9,7 +9,7 @@ Hello! I am a programming student at [Hive Helsinki](https://www.hive.fi/en/). I
 
 ## 🛠️ Things i'm currently Working
 &nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 Reproducing pirntf function in C<br />
-&nbsp;&nbsp;&nbsp;&nbsp;🔏OOP in PHP <br />
+&nbsp;&nbsp;&nbsp;&nbsp;🔏Building a dating web app like Tinder using Reactjs, Express <br />
 
 ## 🪂 My hobbies
 &nbsp;&nbsp;&nbsp;&nbsp;🏸 Badminton<br />
