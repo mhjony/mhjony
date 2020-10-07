@@ -9,12 +9,12 @@ Hello! I am a programming student at [Hive Helsinki](https://www.hive.fi/en/). I
 
 ## 🛠️ Things i'm currently Working
 &nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 Reproducing pirntf function in C<br />
-&nbsp;&nbsp;&nbsp;&nbsp;🔏Building a dating web app like Tinder using Reactjs, node.js (Express), postgre <br />
+&nbsp;&nbsp;&nbsp;&nbsp;🔏 Building a dating web app like Tinder using Reactjs, node.js (Express), postgre <br />
 
 ## 🪂 My hobbies
-&nbsp;&nbsp;&nbsp;&nbsp;🏸 Badminton<br />
-&nbsp;&nbsp;&nbsp;&nbsp;⚽ Watching Football<br />
-&nbsp;&nbsp;&nbsp;&nbsp;📖 Learning new things<br />
+&nbsp;&nbsp;&nbsp;&nbsp;🏸 Badminton
+&nbsp;&nbsp;&nbsp;&nbsp;⚽ Watching Football
+&nbsp;&nbsp;&nbsp;&nbsp;📖 Learning new things
 
 ## 🔍 I am looking for
 &nbsp;&nbsp;&nbsp;&nbsp;🏢 Software developer opportunities. Feel free to [contact me](https://www.linkedin.com/in/mahmudul-hasan-jony/) through Linkedin to discuss! 
