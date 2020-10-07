@@ -1,4 +1,3 @@
-# Mahmudul Hasan
 Hello! I am a programming student at [Hive Helsinki](https://www.hive.fi/en/). I love to code 🖥️
 
 ## 💡 Skills
