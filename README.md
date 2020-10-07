@@ -19,8 +19,6 @@ Hello! I am a programming student at [Hive Helsinki](https://www.hive.fi/en/). I
 ## 🔍 I am looking for
 &nbsp;&nbsp;&nbsp;&nbsp;🏢 Software developer opportunities. Feel free to [contact me](https://www.linkedin.com/in/mahmudul-hasan-jony/) through Linkedin to discuss! 
 
-[![forthebadge](https://img.shields.io/badge/twitter-follow%20me-%231877F2.svg?&style=for-the-badge&logo=twitter)](https://twitter.com/mahmuduljhony)
-[![forthebadge](https://img.shields.io/badge/instagram-follow%20me-%23E4405F.svg?&style=for-the-badge&logo=instagram)](https://www.instagram.com/mahmudul.jony/)
 [![forthebadge](https://img.shields.io/badge/linkedin-follow%20me-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahmudul-hasan-jony/)
 
 <!--
