@@ -2,7 +2,7 @@ Hello! I am a programming student at [Hive Helsinki](https://www.hive.fi/en/). I
 
 ## 💡 Skills
 &nbsp;&nbsp;&nbsp;&nbsp;<b><i>Programming Language </i></b> ⚡ C, PHP, JavaScript<br />
-&nbsp;&nbsp;&nbsp; <b><i>Web Technology </i></b>📃  Reactjs, HTML5, CSS3, Bootstrap, CakePHP, SEO, Docker, google analytics<br />
+&nbsp;&nbsp;&nbsp; <b><i>Web Technology </i></b>📃  Node.js, Reactjs, HTML5, CSS3, Bootstrap, CakePHP, SEO, Docker, google analytics<br />
 &nbsp;&nbsp;&nbsp;&nbsp;<b><i>Database </i></b>📊 MySQL, Oracle<br />
 &nbsp;&nbsp;&nbsp;&nbsp;<b><i>Processes </i></b>⚙️ Agile, Scrum, Kanban<br />
 
