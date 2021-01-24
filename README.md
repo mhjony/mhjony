@@ -7,7 +7,7 @@ Hello! I am a programming student at [Hive Helsinki](https://www.hive.fi/en/). I
 &nbsp;&nbsp;&nbsp;&nbsp;<b><i>Processes </i></b>⚙️ Agile, Scrum, Kanban<br />
 
 ## 🛠️ Things i'm currently Working
-&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 Reproducing pirntf function in C<br />
+&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 Reproducing printf function in C<br />
 &nbsp;&nbsp;&nbsp;&nbsp;🔏 Building a dating web app like Tinder using Reactjs, node.js (Express), postgre <br />
 
 ## 🪂 My hobbies
