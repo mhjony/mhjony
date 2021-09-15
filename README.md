@@ -2,12 +2,13 @@ Hello! I am a Junior Fullstack Developer at [Datacrunch oy](https://datacrunch.i
 
 ## 💡 Skills
 &nbsp;&nbsp;&nbsp;&nbsp;<b><i>Programming Language </i></b> ⚡ C, PHP, JavaScript<br />
-&nbsp;&nbsp;&nbsp; <b><i>Web Technology </i></b>📃  Node.js, Reactjs, HTML5, CSS3, Bootstrap, CakePHP, SEO, Docker, google analytics<br />
+&nbsp;&nbsp;&nbsp; <b><i>Web Technology </i></b>📃  Node.js, Reactjs, HTML5, CSS3, Bootstrap, CakePHP<br />
 &nbsp;&nbsp;&nbsp;&nbsp;<b><i>Database </i></b>📊 MySQL, PostgreSQL<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b><i>DevOps </i></b>📊 Docker, AWS<br />
 &nbsp;&nbsp;&nbsp;&nbsp;<b><i>Processes </i></b>⚙️ Agile, Scrum, Kanban<br />
 
 ## 🛠️ Things i'm currently Working
-&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 Fullstack Open<br />
+&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 fullstackopen2021<br />
 &nbsp;&nbsp;&nbsp;&nbsp;🔏 Building a web app like Netflix using Reactjs, node.js (Express), MongoDB <br />
 
 ## 🪂 My hobbies
