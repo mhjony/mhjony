@@ -7,7 +7,7 @@ Hello! I am a Junior Fullstack Developer at [Datacrunch oy](https://datacrunch.i
 &nbsp;&nbsp;&nbsp;&nbsp;<b><i>Processes </i></b>⚙️ Agile, Scrum, Kanban<br />
 
 ## 🛠️ Things i'm currently Working
-&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 Reproducing printf function in C<br />
+&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 Fullstack Open<br />
 &nbsp;&nbsp;&nbsp;&nbsp;🔏 Building a web app like Netflix using Reactjs, node.js (Express), MongoDB <br />
 
 ## 🪂 My hobbies
