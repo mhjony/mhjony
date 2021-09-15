@@ -1,4 +1,4 @@
-Hello! I am a programming student at [Hive Helsinki](https://www.hive.fi/en/). I love to code 🖥️
+Hello! I am a Junior Fullstack Developer at [Datacrunch oy](https://datacrunch.io/). I love to code 🖥️
 
 ## 💡 Skills
 &nbsp;&nbsp;&nbsp;&nbsp;<b><i>Programming Language </i></b> ⚡ C, PHP, JavaScript<br />
